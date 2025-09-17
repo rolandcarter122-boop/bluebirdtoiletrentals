@@ -1,0 +1,48 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How do I determine the right number of portable toilets in #State for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The ideal number depends on the guest count, the duration of the event, and whether alcohol is being served. A general guideline is one portable toilet per 75 guests for a 4-hour event. Our expert team can provide a precise recommendation based on your specific details to ensure you have adequate coverage.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is included in the rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our portable toilet rental prices are all-inclusive. The quote you receive covers the delivery and pickup of the unit, all necessary toilet paper and hand sanitizer, and the complete cleaning and waste removal service. There are no hidden fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> How far in advance do I need to book my rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We recommend booking as early as possible, especially for large events or if you require a luxury restroom trailer in #State, as they are in high demand. For standard units, one to two weeks' notice is often sufficient, but we will always do our best to accommodate last-minute requests.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Where can you place the portable restrooms on my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We can place units on any firm, level surface, including grass, pavement, or gravel. For our service trucks to perform delivery and cleaning, the location must be accessible, with a clear path that is wide enough for the truck to navigate safely.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do your units have lighting for nighttime use?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard units have translucent roofs that allow for natural light during the day. For evening or nighttime events, we can provide battery-operated LED lights for the interior of the units upon request for a small additional fee. Our luxury restroom trailers come standard with full interior and exterior lighting.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
